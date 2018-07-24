@@ -165,12 +165,12 @@
                                         @endforeach
                                     </select>
                                 </div>
-                                @if($method != 'put')
+{{--                                @if($method != 'put')--}}
                                     <div class="input-group mb-3">
                                         <label class="">Chọn file</label>
                                         <input type="file" name="img_url[]" multiple = ""/>
                                     </div>
-                                @endif
+                                {{--@endif--}}
 
                             </div>
                         </div>
