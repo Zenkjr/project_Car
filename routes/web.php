@@ -11,13 +11,15 @@
 |
 */
 //
-//Route::get('/admin', function () {
-//    return view('layout.admin_template');
-//});
+
 
 
 use Illuminate\Support\Facades\Route;
 Route::get('/admin', function () {
+    return view('layout.admin_template');
+});
+
+Route::get('/', function () {
     return view('layout.admin_template');
 });
 
