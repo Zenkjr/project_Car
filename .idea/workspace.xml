@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c42bfa9d-65d1-47fb-89b3-e3e78211e63a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c42bfa9d-65d1-47fb-89b3-e3e78211e63a" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -314,6 +312,12 @@
             <path>
               <item name="project_Car" type="b2602c69:ProjectViewProjectNode" />
               <item name="project_Car" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project_Car" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project_Car" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -355,6 +359,14 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="project_Car" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project_Car" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="upload" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -373,15 +385,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\demo\AdminCar\app\Http\Controllers" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\project_Car\storage\app\public\upload" />
+      <recent name="C:\Users\Admin\project_Car\storage\app" />
       <recent name="D:\demo\AdminCar\database\seeds" />
       <recent name="D:\demo\AdminCar\public\images" />
       <recent name="D:\demo\AdminCar\public\css" />
-      <recent name="D:\demo\AdminCar\resources\views" />
-      <recent name="D:\demo\AdminCar\app\Http\Controllers\Auth" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\demo\AdminCar\app\Http\Controllers" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -428,12 +440,12 @@
       <workItem from="1532346413099" duration="2526000" />
       <workItem from="1532403304601" duration="23366000" />
       <workItem from="1532444013840" duration="4720000" />
-      <workItem from="1532450593970" duration="3709000" />
+      <workItem from="1532450593970" duration="4473000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182276000" />
+    <option name="totallyTimeSpent" value="183040000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -444,8 +456,8 @@
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="npm" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.21147715" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19583334" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.21147715" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19583334" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Google Cloud Storage" order="3" />
